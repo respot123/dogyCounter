@@ -1,6 +1,6 @@
 ﻿/* dogy Counter 1.0
  * This small utility is designed for group administrators in the social network vk.com.
- * If the number of blocked participants (further dogys) in the group exceeds half the group is blocked.
+ * If the number of blocked users (further dogys) in the group exceeds half the group is blocked.
  * This program in real time shows the number of users, the number of dogys and calculates the current percentage of dogys
  * url public and page with search result are in config.ini
  */
@@ -115,7 +115,7 @@ namespace dogyCounter
                     else if (percentBot >= 20 && percentBot < 50)
                     {
                         panel2.BackColor = System.Drawing.Color.Yellow;
-                        stateLabel.Text = "Сократите 'собачек'";
+                        stateLabel.Text = "Сократите число 'собачек'";
                     }
                     else
                     {
