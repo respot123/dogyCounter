@@ -1,0 +1,8 @@
+c:\users\александра\documents\visual studio 2010\Projects\dogyCounter\dogyCounter\bin\Debug\dogyCounter.exe
+c:\users\александра\documents\visual studio 2010\Projects\dogyCounter\dogyCounter\bin\Debug\dogyCounter.pdb
+c:\users\александра\documents\visual studio 2010\Projects\dogyCounter\dogyCounter\obj\x86\Debug\dogyCounter.csprojResolveAssemblyReference.cache
+c:\users\александра\documents\visual studio 2010\Projects\dogyCounter\dogyCounter\obj\x86\Debug\dogyCounter.Form1.resources
+c:\users\александра\documents\visual studio 2010\Projects\dogyCounter\dogyCounter\obj\x86\Debug\dogyCounter.Properties.Resources.resources
+c:\users\александра\documents\visual studio 2010\Projects\dogyCounter\dogyCounter\obj\x86\Debug\dogyCounter.csproj.GenerateResource.Cache
+c:\users\александра\documents\visual studio 2010\Projects\dogyCounter\dogyCounter\obj\x86\Debug\dogyCounter.exe
+c:\users\александра\documents\visual studio 2010\Projects\dogyCounter\dogyCounter\obj\x86\Debug\dogyCounter.pdb
