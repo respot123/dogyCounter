@@ -94,7 +94,7 @@ namespace dogyCounter
             match1 = match1.NextMatch();
 
             string substr = legalUser.Substring(0);
-            if (substr == "о" || substr == "а" || substr == "ы")
+            if (substr == "о" || substr == "а" || substr == "ы" || substr == " ")
             {
                 legalUser = legalUser.Remove(0, 1);
             }
